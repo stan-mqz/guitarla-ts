@@ -1,6 +1,6 @@
 # Guitar Shopping Cart
 
-[Live Demo] (https://stan-mqz-guitarla-ts.netlify.app/)
+[Live Demo](https://stan-mqz-guitarla-ts.netlify.app/)
 
 A simple shopping cart application built with Vite, React, and TypeScript. This application allows users to add guitars to their cart, displays the total price, individual prices for each guitar, and includes various validations to enhance user experience.
 
